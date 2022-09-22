@@ -15,7 +15,7 @@ import {
   MainStackNavigatorParamList,
   RootStackNavigatorParamList,
 } from '../../App';
-import { COLORS } from '../../../constants';
+import { COLORS } from '../../constants';
 import { ColorData } from '../../types';
 
 type ColorPaletteModalProps = CompositeScreenProps<
