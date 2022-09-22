@@ -34,8 +34,8 @@ The simple project that was developed for training during the React Native Front
     <td>Main screen (iOS)</td>
   </tr>
   <tr>
-    <td><img src="resources/android_home.png" width=450></td>
-    <td><img src="resources/ios_home.png" width=450></td>
+    <td><img src="resources/android_home.png" width=250></td>
+    <td><img src="resources/ios_home.png" width=250></td>
   </tr>
   <tr>
     <td>Color palette screen (Android)</td>
